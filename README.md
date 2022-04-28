@@ -33,6 +33,8 @@ Full screens standoff mini game.
 
 Settings page. 
 
+Different ghosts. 
+
  
 
 *Could have* 
@@ -41,7 +43,7 @@ Music for both the main game and mini game.
 
 Difficulty levels. 
 
-Different ghosts 
+
 
  
 
