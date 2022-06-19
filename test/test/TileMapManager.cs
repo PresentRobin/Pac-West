@@ -3,6 +3,8 @@ using Microsoft.Xna.Framework.Graphics;
 using System;
 using TiledSharp;
 using System.Collections;
+using SharpDX.Direct2D1;
+
 namespace test.Content.Management
 {
     public class TileMapManager
