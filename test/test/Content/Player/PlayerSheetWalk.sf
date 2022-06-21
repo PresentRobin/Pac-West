@@ -1,0 +1,21 @@
+﻿{
+  "textureAtlas": {
+    "texture": "playerSheetWalk.png",
+    "regionWidth": 18,
+    "regionHeight": 18
+  },
+  "cycles": {
+    "walkDown": {
+      "frames": [0,1,2]
+    },
+    "walkLeft": {
+      "frames": [3,4,5]
+    },
+    "walkRight": {
+      "frames": [6,7,8]
+    },
+    "walkUp": {
+      "frames": [9,10,11]
+    }
+  }
+}
