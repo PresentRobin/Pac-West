@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32428.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooting Game Attempt 2", "Shooting Game Attempt 2.csproj", "{64FA88B0-6DED-4899-9F33-3BD157C4E8AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shooting Game Attempt 2", "Shooting Game Attempt 2.csproj", "{64FA88B0-6DED-4899-9F33-3BD157C4E8AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShootDown", "..\ShootDown\ShootDown.csproj", "{4D836749-9478-40AF-AB92-5163D4DD681E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BullRidingGame", "..\BullRidingGame\BullRidingGame\BullRidingGame.csproj", "{61365ED2-ED27-4B29-9C8C-C0F5E6BCA2C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chase", "..\..\source\repos\Chase\Chase\Chase.csproj", "{DCADDFC1-9925-4C9A-BED9-33340A384486}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{64FA88B0-6DED-4899-9F33-3BD157C4E8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64FA88B0-6DED-4899-9F33-3BD157C4E8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64FA88B0-6DED-4899-9F33-3BD157C4E8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D836749-9478-40AF-AB92-5163D4DD681E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D836749-9478-40AF-AB92-5163D4DD681E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D836749-9478-40AF-AB92-5163D4DD681E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D836749-9478-40AF-AB92-5163D4DD681E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61365ED2-ED27-4B29-9C8C-C0F5E6BCA2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61365ED2-ED27-4B29-9C8C-C0F5E6BCA2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61365ED2-ED27-4B29-9C8C-C0F5E6BCA2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61365ED2-ED27-4B29-9C8C-C0F5E6BCA2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCADDFC1-9925-4C9A-BED9-33340A384486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCADDFC1-9925-4C9A-BED9-33340A384486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCADDFC1-9925-4C9A-BED9-33340A384486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCADDFC1-9925-4C9A-BED9-33340A384486}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

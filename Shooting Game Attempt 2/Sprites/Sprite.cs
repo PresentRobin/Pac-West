@@ -78,7 +78,7 @@ namespace Shooting_Game_Attempt_2.Sprites
             _texture.GetData(TextureData);
         }
 
-        public override void Update(GameTime gameTime, List<Sprite> sprites)
+        public override void Update(GameTime gameTime, List<Sprite> sprites) 
         {
             foreach (var sprite in sprites)
             {

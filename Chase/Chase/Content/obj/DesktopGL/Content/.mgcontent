@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/bg.png</File>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/bomb.jpg</File>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/enemy.png</File>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/eni.png</File>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/eni2.png</File>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/eni3.png</File>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/Forest1.jpg</File>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/MicrosoftTeams-image.png</File>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/player.png</File>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/Player/playerSprite.png</File>
+    <File>C:/Users/Jerem/source/repos/Chase/Chase/Content/tkkk.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
