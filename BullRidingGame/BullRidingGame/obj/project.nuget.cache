@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jnaFUw/SHHlKaZdfWkH2kbpC5PMwfTH2H1Qr7wnJO0E/lcVm8d3gvODuC/jMtgle3wAd5Xzyo3FO99qhI8Xtxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jerem\\Desktop\\BullRidingGame\\BullRidingGame\\BullRidingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerem\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Jerem\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

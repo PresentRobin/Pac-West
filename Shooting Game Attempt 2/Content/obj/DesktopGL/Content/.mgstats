@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/background.png","C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",100216,1536085,0.6349643
+"C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/background1.png","C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/bin/DesktopGL/Content/background1.xnb","TextureProcessor","Texture2DContent",68529,1536085,0.1591673
+"C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/box.png","C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/bin/DesktopGL/Content/box.xnb","TextureProcessor","Texture2DContent",218,12085,0.0397368
+"C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/Bullet.png","C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/bin/DesktopGL/Content/Bullet.xnb","TextureProcessor","Texture2DContent",189,185,0.0292978
+"C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/conjurer2.png","C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/bin/DesktopGL/Content/conjurer2.xnb","TextureProcessor","Texture2DContent",311,1045,0.0181605
+"C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/Font.spritefont","C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/bin/DesktopGL/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.3822303
+"C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/gun.png","C:/Users/Jerem/Desktop/Shooting Game Attempt 2/Content/bin/DesktopGL/Content/gun.xnb","TextureProcessor","Texture2DContent",503,35285,0.022854

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/bull.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/bullV2.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/down.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/gameOver.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/left.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/player_lean_left.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/player_lean_leftV2.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/player_lean_right.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/player_lean_rightV2.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/player_straight_ahead.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/player_straight_aheadV2.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/pressDown.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/pressLeft.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/pressRight.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/pressUp.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/right.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/ShootoutBG.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/up.png</File>
+    <File>C:/Users/Jerem/Desktop/BullRidingGame/BullRidingGame/Content/win.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

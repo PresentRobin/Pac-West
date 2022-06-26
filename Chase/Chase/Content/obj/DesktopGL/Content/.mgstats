@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/bg.png","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/bg.xnb","TextureProcessor","Texture2DContent",100216,1536085,0.1436565
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/bomb.jpg","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/bomb.xnb","TextureProcessor","Texture2DContent",5158,202585,0.0088684
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/enemy.png","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/enemy.xnb","TextureProcessor","Texture2DContent",1230,6973,0.002199
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/eni.png","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/eni.xnb","TextureProcessor","Texture2DContent",279,4261,0.0017975
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/eni2.png","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/eni2.xnb","TextureProcessor","Texture2DContent",288,4261,0.0013688
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/eni3.png","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/eni3.xnb","TextureProcessor","Texture2DContent",279,4549,0.0015476
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/Forest1.jpg","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/Forest1.xnb","TextureProcessor","Texture2DContent",1485671,8294485,0.2120766
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/MicrosoftTeams-image.png","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/MicrosoftTeams-image.xnb","TextureProcessor","Texture2DContent",100216,1536085,0.0387429
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/player.png","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",1377,6317,0.0029338
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/Player/playerSprite.png","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/Player/playerSprite.xnb","TextureProcessor","Texture2DContent",4117,19273,0.1057308
+"C:/Users/Jerem/source/repos/Chase/Chase/Content/tkkk.png","C:/Users/Jerem/source/repos/Chase/Chase/Content/bin/DesktopGL/Content/tkkk.xnb","TextureProcessor","Texture2DContent",336,5413,0.0016442
